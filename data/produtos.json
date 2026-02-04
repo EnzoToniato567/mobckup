@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nome": "Mouse gamer Logitech G502",
+        "descricao": "Mouse gamer com 11 botões programáveis e sensor HERO 25K",
+        "preco": 349.9,
+        "quantidade": 15,
+        "img": "https://m.media-amazon.com/images/I/61mpMH5TzkL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Teclado mecânico Redragon Kumara",
+        "descricao": "Teclado mecânico gamer ABNT2 com switches Outemu Blue",
+        "preco": 229.9,
+        "quantidade": 20,
+        "img": ""
+    },
+    {
+        "id": 3,
+        "nome": "Headset HyperX Cloud II",
+        "descricao": "Headset gamer com som surround 7.1 e microfone removível",
+        "preco": 599.0,
+        "quantidade": 10,
+        "img": ""
+    },
+    {
+        "id": 4,
+        "nome": "Monitor gamer LG UltraGear 27",
+        "descricao": "Monitor gamer 27 polegadas, 165Hz, 1ms, IPS",
+        "preco": 1899.0,
+        "quantidade": 8,
+        "img": "https://www.lg.com/content/dam/channel/wcms/br/images/produtos/it/27gs60f/1-1600-27gs60f.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800"
+    },
+    {
+        "id": 5,
+        "nome": "Cadeira gamer ThunderX3",
+        "descricao": "Cadeira gamer ergonômica com ajuste de altura e inclinação",
+        "preco": 1299.9,
+        "quantidade": 6,
+        "img": "https://m.media-amazon.com/images/I/71VqjPlOJAL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 6,
+        "nome": "Controle Xbox Series X",
+        "descricao": "Controle sem fio Xbox Series X|S compatível com PC",
+        "preco": 499.0,
+        "quantidade": 18,
+        "img": "https://m.media-amazon.com/images/I/71NBQ2a52CL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 7,
+        "nome": "Console PlayStation 5",
+        "descricao": "Console Sony PlayStation 5 com SSD ultrarrápido",
+        "preco": 4299.0,
+        "quantidade": 5,
+        "img": "https://m.media-amazon.com/images/I/619BkvKW35L._AC_SL1500_.jpg"
+    },
+    {
+        "id": 8,
+        "nome": "Placa de vídeo RTX 4070",
+        "descricao": "NVIDIA GeForce RTX 4070 12GB GDDR6X",
+        "preco": 3999.0,
+        "quantidade": 7,
+        "img": ""
+    },
+    {
+        "id": 9,
+        "nome": "Notebook gamer Acer Nitro 5",
+        "descricao": "Notebook gamer com Intel i7, RTX 3060 e 16GB RAM",
+        "preco": 6999.0,
+        "quantidade": 4,
+        "img": ""
+    },
+    {
+        "id": 10,
+        "nome": "Mousepad gamer XXL",
+        "descricao": "Mousepad gamer extra grande com superfície antiderrapante",
+        "preco": 89.9,
+        "quantidade": 25,
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/380470/Mouse-Pad-Gamer-Speed-Extra-Grande-Preto-90x50CM_1727814143_gg.jpg"
+    }
+]
